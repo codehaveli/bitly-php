@@ -1,13 +1,19 @@
 
+
 # Bitly PHP SDK by Codehaveli
+
+
+### Description
+
+This package use Bitly API version v4.
 
 ### Installation
 
-Install via composer (not hosted in packagist yet)
+Install via composer
 
-`composer require codehaveli/bitly-php`
+`composer require codehaveli/bitly-php:dev-master --prefer-source`
 
-## Usage
+### Usage
 
 ```php
 <?php
@@ -30,7 +36,7 @@ Once credentials are set you can use available resources.
 Resources availables:
 
 - **Link** 
- * Available methods: `getUrl`
+  * Available methods: `getUrl`
 
 
 
@@ -61,6 +67,8 @@ try {
 ### Terms of Use
  
 This is not a Official SDK of Bitly
-Please read [privacy](https://bitly.com/pages/privacy) and [terms of service](https://bitly.com/pages/terms-of-service) of [Bitly](https://bitly.com/) before using this plugin.
+Please read [privacy](https://bitly.com/pages/privacy) and [terms of service](https://bitly.com/pages/terms-of-service) of [Bitly](https://bitly.com/) before use.
 ### Other Resource
-1. Wordpress Plugin [Codehaveli Bitly URL Shortener](https://bit.ly/codehaveli-bitly-url-shortener) 
+1. Wordpress Plugin by Codehaveli [Codehaveli Bitly URL Shortener](https://bit.ly/codehaveli-bitly-url-shortener) 
+2. [Bitly API Documentation](https://dev.bitly.com/)
+3. [Codehaveli](https://www.codehaveli.com/blogs/)
