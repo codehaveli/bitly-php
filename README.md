@@ -2,6 +2,14 @@
 
 # Bitly PHP SDK by Codehaveli
 
+* [Description](https://github.com/codehaveli/bilty-php#description)
+* [Installation](https://github.com/codehaveli/bilty-php#installation)
+* [Usage](https://github.com/codehaveli/bilty-php#usage)
+	* [Link](https://github.com/codehaveli/bilty-php#link)
+* [Terms of Use](https://github.com/codehaveli/bilty-php#terms-of-use)
+* [Other Resource](https://github.com/codehaveli/bilty-php#other-resource)
+
+
 
 ### Description
 
