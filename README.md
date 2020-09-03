@@ -13,7 +13,7 @@
 
 ### Description
 
-This package use Bitly API version v4.
+A PHP wrapper for the bit.ly API. This package use Bitly API version v4.
 
 ### Installation
 
