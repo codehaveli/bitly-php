@@ -6,7 +6,6 @@
     ],
     "type": "library",
     "license": "MIT",
-    "version": "0.0.1",
     "authors": [
         {
             "name": "Codehaveli",
@@ -27,8 +26,8 @@
     },
     "minimum-stability": "dev",
     "scripts": {
-        "lint"  : "phplint --no-cache src/",
-        "phpcs" : "phpcs  --standard=psr12 src/",
+        "lint"   : "phplint --no-cache src/",
+        "phpcs"  : "phpcs  --standard=psr12 src/",
         "phpcbf" : "phpcbf  --standard=psr12 src/"
     }
 }

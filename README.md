@@ -2,12 +2,12 @@
 
 # Bitly PHP SDK by Codehaveli
 
-* [Description](https://github.com/codehaveli/bilty-php#description)
-* [Installation](https://github.com/codehaveli/bilty-php#installation)
-* [Usage](https://github.com/codehaveli/bilty-php#usage)
-	* [Link](https://github.com/codehaveli/bilty-php#link)
-* [Terms of Use](https://github.com/codehaveli/bilty-php#terms-of-use)
-* [Other Resource](https://github.com/codehaveli/bilty-php#other-resource)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+	* [Link](#link)
+* [Terms of Use](#terms-of-use)
+* [Other Resource](#other-resource)
 
 
 
@@ -79,4 +79,4 @@ Please read [privacy](https://bitly.com/pages/privacy) and [terms of service](ht
 ### Other Resource
 1. Wordpress Plugin by Codehaveli [Codehaveli Bitly URL Shortener](https://bit.ly/codehaveli-bitly-url-shortener) 
 2. [Bitly API Documentation](https://dev.bitly.com/)
-3. [Codehaveli](https://www.codehaveli.com/blogs/)
+3. [Codehaveli Blog](https://www.codehaveli.com/blogs/)
