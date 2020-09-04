@@ -1,6 +1,12 @@
 
 
 # Bitly PHP SDK by Codehaveli
+[![Latest Stable Version](https://poser.pugx.org/codehaveli/bitly-php/v)](//packagist.org/packages/codehaveli/bitly-php)
+[![Latest Unstable Version](https://poser.pugx.org/codehaveli/bitly-php/v/unstable)](//packagist.org/packages/codehaveli/bitly-php)
+[![Total Downloads](https://poser.pugx.org/codehaveli/bitly-php/downloads)](//packagist.org/packages/codehaveli/bitly-php)
+[![Monthly Downloads](https://poser.pugx.org/codehaveli/bitly-php/d/monthly)](//packagist.org/packages/codehaveli/bitly-php)
+[![License](https://poser.pugx.org/codehaveli/bitly-php/license)](//packagist.org/packages/codehaveli/bitly-php)
+
 
 * [Description](#description)
 * [Installation](#installation)
