@@ -1,6 +1,7 @@
 
 
 # Bitly PHP SDK by Codehaveli
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/codehaveli/bilty-php/PHP%20Composer?label=tests)](https://github.com/codehaveli/bilty-php/actions?query=workflow%3A%22PHP+Composer%22)
 [![Latest Stable Version](https://poser.pugx.org/codehaveli/bitly-php/v)](//packagist.org/packages/codehaveli/bitly-php)
 [![Latest Unstable Version](https://poser.pugx.org/codehaveli/bitly-php/v/unstable)](//packagist.org/packages/codehaveli/bitly-php)
 [![Total Downloads](https://poser.pugx.org/codehaveli/bitly-php/downloads)](//packagist.org/packages/codehaveli/bitly-php)
