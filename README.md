@@ -1,6 +1,7 @@
 
 
 # Bitly PHP SDK by Codehaveli
+
 [![Latest Stable Version](https://poser.pugx.org/codehaveli/bitly-php/v)](//packagist.org/packages/codehaveli/bitly-php)
 [![Latest Unstable Version](https://poser.pugx.org/codehaveli/bitly-php/v/unstable)](//packagist.org/packages/codehaveli/bitly-php)
 [![Total Downloads](https://poser.pugx.org/codehaveli/bitly-php/downloads)](//packagist.org/packages/codehaveli/bitly-php)
@@ -37,7 +38,7 @@ require 'vendor/autoload.php';
 use Codehaveli\Bitly;
 use Codehaveli\Exceptions\BitlyErrorException;
 
-// First setup your credentials provided by bilty
+// First setup your credentials provided by Bitly
 
 $accessToken  = "ACCESS_TOKEN_FROM_BITLY";
 $guid         = "GUID_FROM_BITLY";
