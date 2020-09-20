@@ -1,8 +1,8 @@
 {
     "name": "codehaveli/bitly-php",
-    "description": "Bitly PHP SDK",
+    "description": "Bitly PHP SDK by Codehaveli uses the functionality of Bitly API version 4. This package is in initial release and have very less feature compared to main Bitly API.",
     "keywords": [
-        "bilty", "php", "shorturl", "sdk"
+        "bilty", "php", "shorturl", "sdk" ,"biltyapi" ,"biltyapiv4" , "url"
     ],
     "type": "library",
     "license": "MIT",
